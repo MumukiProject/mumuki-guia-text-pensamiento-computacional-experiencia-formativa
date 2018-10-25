@@ -8,19 +8,3 @@ Vas a diseñar una formación en Pensamiento Computacional que te sirva para tu 
 
 
 > Respondé esas preguntas en los siguientes campos.
-
-
-................................................................
-
- ¿A quién va a estar dirigida la formación? Por ejemplo: docentes, estudiantes de primaria, directores de escuela, etc.
-
-¿De cuánto será la duración total y cuántos encuentros pensás que te llevará?
- 
-Cantidad  total de hrs.          Cantidad de encuentros           
-................                                    ......................                 	   
- 
-¿A qué número de participantes estará dirigido?
-(x) 1-10     (x) 1-30     (x) >30
- 
-¿Necesitás recursos específicos? (Internet, compus, sillas movibles, etc.)
-.......................................................................................    
