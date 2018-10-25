@@ -1,1 +1,55 @@
-blabkavas
+<div class="form-vertical">
+  <div class="form-group">
+    <label for="tema_habitual">Escribí un tema habitual de tus planificaciones:</label>
+    <input name="tema_habitual" class="form-control mu-free-form-input">
+  </div>
+  <div class="form-group">
+    <label for="como_trabajarlo">¿Cómo podrías trabajarlo a través de una situación problemática?</label>
+    <textarea name="como_trabajarlo" class="form-control mu-free-form-input" placeholder="¿Cómo podrías trabajarlo...?">
+    </textarea>
+  </div>
+  <div>
+    <label for="problematica">Utilizando las categorías que vimos hasta acá, seleccioná si la situación problemática que escribiste se ajusta más a:</label>
+    <div class="mu-margin">
+      <label for="">Según el tipo de dificultad</label>
+      <div class="radio">
+        <label class="radio-inline"><input type="radio" name="optradio1">Un problema de laguna</label>
+        <label class="radio-inline"><input type="radio" name="optradio2">Un problema de contradicción</label>
+        <label class="radio-inline"><input type="radio" name="optradio3">Otro tipo de problema</label>
+        <label class="radio-inline"><input type="radio" name="optradio4">No lo se aún</label>
+      </div>
+    </div>
+    <div class="mu-margin">
+      <label for="">Según la estructura del problema</label>
+      <div class="radio">
+        <label class="radio-inline"><input type="radio" name="optradio1">Un problema cerrado</label>
+        <label class="radio-inline"><input type="radio" name="optradio2">Un problema generativo</label>
+        <label class="radio-inline"><input type="radio" name="optradio3">Otro tipo de problema</label>
+        <label class="radio-inline"><input type="radio" name="optradio4">No lo se aún</label>
+      </div>
+    </div>
+    <div class="mu-margin">
+      <label for="">Según el tipo de problema</label>
+      <div class="radio">
+        <label class="radio-inline"><input type="radio" name="optradio1">Un problema teórico</label>
+        <label class="radio-inline"><input type="radio" name="optradio2">Un problema generativo</label>
+        <label class="radio-inline"><input type="radio" name="optradio3">Otro tipo de problema</label>
+        <label class="radio-inline"><input type="radio" name="optradio4">No lo se aún</label>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .form-group > textarea {
+    resize: vertical;
+  }
+  
+  radio > radio-inline {
+    padding-right: 30px;
+  }
+  
+  .mu-margin {
+    margin-left: 30px;
+  }
+</style>
