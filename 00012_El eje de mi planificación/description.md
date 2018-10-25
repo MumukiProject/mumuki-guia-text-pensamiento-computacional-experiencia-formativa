@@ -1,4 +1,4 @@
-¡AHORA SÍ :raised_hands:!
+¡AHORA SÍ!  :raised_hands:
 
 Vamos a definir el problema que guiará esta experiencia formativa.
 
