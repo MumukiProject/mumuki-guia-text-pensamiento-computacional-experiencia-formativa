@@ -1,0 +1,9 @@
+Repasemos un poco lo visto:
+
+✓ Primeros Pasos
+
+✗ Preparación del terreno
+
+✗ Intervención desde el Pensamiento Computacional
+
+✗ Evaluación
