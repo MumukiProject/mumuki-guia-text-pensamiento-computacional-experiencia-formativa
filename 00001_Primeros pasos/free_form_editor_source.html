@@ -1,43 +1,62 @@
-<div class="form-horizontal">
+<div class="form-vertical">
   <div class="form-group">
-    <div class="input-group">
-      <div class="input-group-addon">Participantes</div>
-      <input name="course_target" type="text" class="form-control mu-free-form-input" placeholder="Docentes/Directores/Estudiantes/etc.">
-    </div>
+    <label for="tema_habitual">Escribí un tema habitual de tus planificaciones:</label>
+    <input name="tema_habitual" class="form-control mu-free-form-input">
   </div>
   <div class="form-group">
-    <div class="input-group">
-      <div class="input-group-addon">Duración total</div>
-      <input name="course_duration" type="integer" class="form-control mu-free-form-input" placeholder="¿Cuál será la duración total en horas?">
-    </div>
+    <label for="como_trabajarlo">¿Cómo podrías trabajarlo a través de una situación problemática?</label>
+    <textarea name="como_trabajarlo" class="form-control mu-free-form-input" placeholder="¿Cómo podrías trabajarlo...?">
+    </textarea>
   </div>
-  <div class="form-group">
-    <div class="input-group">
-      <div class="input-group-addon">Cantidad de encuentros</div>
-      <input name="course_mettings" type="integer" class="form-control mu-free-form-input" placeholder="¿Cuántos encuentros serán?">
+  <div>
+    <label for="problematica">Utilizando las categorías que vimos hasta acá, seleccioná si la situación problemática que escribiste se ajusta más a:</label>
+    
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon">Según el tipo de dificultad</div>
+        <select name="option1" type="integer" class="form-control mu-free-form-input">
+          <option disabled selected>Elegí según el tipo de dificultad</option>
+          <option>Un problema de laguna</option>
+          <option>Un problema de contradicción</option>
+          <option>Otro tipo de problema</option>
+          <option>No lo se aún</option>
+        </select>
+      </div>
     </div>
-  </div>
-  <div class="form-group">
-    <div class="input-group">
-      <div class="input-group-addon">Número de Participantes</div>
-      <select name="course_mettings" type="integer" class="form-control mu-free-form-input">
-        <option disabled selected>Elegí el número de participantes</option>
-        <option>1 a 10</option>
-        <option>10 a 30</option>
-        <option>más de 30</option>
-      </select>
+    
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon">Según la estructura del problema</div>
+        <select name="option1" type="integer" class="form-control mu-free-form-input">
+          <option disabled selected>Elegí según la estructura del problema</option>
+          <option>Un problema cerrado</option>
+          <option>Un problema generativo</option>
+          <option>Otro tipo de problema</option>
+          <option>No lo se aún</option>
+        </select>
+      </div>
     </div>
-  </div>
-  <div class="form-group">
-    <div class="input-group">
-      <div class="input-group-addon">Recursos específicos</div>
-      <input name="course_resources" type="text" class="form-control mu-free-form-input" placeholder="Internet/Computadoras/Sillas movibles/etc.">
+    
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon">Según el tipo de problema</div>
+        <select name="option1" type="integer" class="form-control mu-free-form-input">
+          <option disabled selected>Elegí el según el tipo de problema</option>
+          <option>Un problema teórico</option>
+          <option>Un problema de práctico</option>
+          <option>Otro tipo de problema</option>
+          <option>No lo se aún</option>
+        </select>
+      </div>
     </div>
-  </div>
-  <div class="form-group">
-    <div class="input-group">
-      <div class="input-group-addon">Título de la experiencia</div>
-      <input name="course_title" type="text" class="form-control mu-free-form-input" placeholder="¿Cuál será el título?">
-    </div>
+    
   </div>
 </div>
+
+<style>
+
+  .form-group > textarea {
+    resize: vertical;
+  }
+  
+</style>
