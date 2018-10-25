@@ -1,6 +1,6 @@
 Algunas herramientas pueden servirte para conocer mejor la temática. Te damos unos ejemplos:
 
-<div>
+<div class="panel-group">
   <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">
       <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
