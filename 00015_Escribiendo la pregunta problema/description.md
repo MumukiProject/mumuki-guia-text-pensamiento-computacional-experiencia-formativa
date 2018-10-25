@@ -2,4 +2,4 @@ La pregunta que diseñes deberá guiar tu formación y la misma podrá responder
 
 ¿Estás list@?
 
-> Escribí el problema que guiará la formación.
+> Respondé la siguiente pregunta.
