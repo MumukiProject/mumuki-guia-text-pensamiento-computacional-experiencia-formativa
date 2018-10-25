@@ -7,3 +7,5 @@ Vamos a repasar lo que vimos hasta ahora:
 ✗ Interviniendo desde el Pensamiento Computacional
 
 ✗ Evaluación
+
+> Completá los siguientes campos.
