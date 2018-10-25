@@ -5,7 +5,7 @@ Para que un problema sea tal, es necesario que no esté resuelto aún o su soluc
 
 A continuación les presentaremos algunas características que puedan presentar los problemas:
 
-<div style="display: flex;">
+<div>
   <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">Según tipo de dificultad: lagunas o contradicción</div>
     <div class="panel-body">
