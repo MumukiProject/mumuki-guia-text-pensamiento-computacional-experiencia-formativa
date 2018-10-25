@@ -1,4 +1,5 @@
-¡AHORA SÍ!
+¡AHORA SÍ :raised_hands:!
+
 Vamos a definir el problema que guiará esta experiencia formativa.
 
 Primero tenés que elegir un tema. Recordá que tiene que ser ajustado a las características del grupo con el que trabajarás y tiene que permitirte desarrollar los objetivos de tu planificación.
