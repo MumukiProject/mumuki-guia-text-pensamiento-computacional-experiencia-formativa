@@ -1,0 +1,1 @@
+Podés elegir los verbos de la lista desplegable o escribir otros. Te proponemos que analices cada verbo y su implicancia en distintos niveles de complejidad y acciones. Por ejemplo, no es lo mismo que l@s estudiantes logren definir un concepto a que logren relacionarlo o demostrarlo. 
