@@ -10,46 +10,53 @@
   </div>
   <div>
     <label for="problematica">Utilizando las categorías que vimos hasta acá, seleccioná si la situación problemática que escribiste se ajusta más a:</label>
-    <div class="mu-margin">
-      <label for="">Según el tipo de dificultad</label>
-      <div class="radio">
-        <label class="radio-inline"><input type="radio" name="optradio1">Un problema de laguna</label>
-        <label class="radio-inline"><input type="radio" name="optradio2">Un problema de contradicción</label>
-        <label class="radio-inline"><input type="radio" name="optradio3">Otro tipo de problema</label>
-        <label class="radio-inline"><input type="radio" name="optradio4">No lo se aún</label>
+    
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon">Según el tipo de dificultad</div>
+        <select name="option1" type="integer" class="form-control mu-free-form-input">
+          <option disabled selected>Elegí según el tipo de dificultad</option>
+          <option>Un problema de laguna</option>
+          <option>Un problema de contradicción</option>
+          <option>Otro tipo de problema</option>
+          <option>No lo se aún</option>
+        </select>
       </div>
     </div>
-    <div class="mu-margin">
-      <label for="">Según la estructura del problema</label>
-      <div class="radio">
-        <label class="radio-inline"><input type="radio" name="optradio1">Un problema cerrado</label>
-        <label class="radio-inline"><input type="radio" name="optradio2">Un problema generativo</label>
-        <label class="radio-inline"><input type="radio" name="optradio3">Otro tipo de problema</label>
-        <label class="radio-inline"><input type="radio" name="optradio4">No lo se aún</label>
+    
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon">Según la estructura del problema</div>
+        <select name="option1" type="integer" class="form-control mu-free-form-input">
+          <option disabled selected>Elegí según la estructura del problema</option>
+          <option>Un problema cerrado</option>
+          <option>Un problema generativo</option>
+          <option>Otro tipo de problema</option>
+          <option>No lo se aún</option>
+        </select>
       </div>
     </div>
-    <div class="mu-margin">
-      <label for="">Según el tipo de problema</label>
-      <form>
-        <label class="radio-inline"><input type="radio" name="optradio1">Un problema teórico</label>
-        <label class="radio-inline"><input type="radio" name="optradio2">Un problema generativo</label>
-        <label class="radio-inline"><input type="radio" name="optradio3">Otro tipo de problema</label>
-        <label class="radio-inline"><input type="radio" name="optradio4">No lo se aún</label>
-      </form>
+    
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon">Según el tipo de problema</div>
+        <select name="option1" type="integer" class="form-control mu-free-form-input">
+          <option disabled selected>Elegí el según el tipo de problema</option>
+          <option>Un problema teórico</option>
+          <option>Un problema de práctico</option>
+          <option>Otro tipo de problema</option>
+          <option>No lo se aún</option>
+        </select>
+      </div>
     </div>
+    
   </div>
 </div>
 
 <style>
+
   .form-group > textarea {
     resize: vertical;
   }
   
-  .radio > .radio-inline {
-    padding-right: 30px;
-  }
-  
-  .mu-margin {
-    margin-left: 30px;
-  }
 </style>
