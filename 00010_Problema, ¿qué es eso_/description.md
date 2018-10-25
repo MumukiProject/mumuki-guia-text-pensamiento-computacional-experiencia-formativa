@@ -5,8 +5,8 @@ Para que un problema sea tal, es necesario que no esté resuelto aún o su soluc
 
 A continuación les presentaremos algunas características que puedan presentar los problemas:
 
-<div style="display: flex; justify-content: space-between">
-  <div class="panel panel-default" style="width: 48%;">
+<div style="display: flex;">
+  <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">Según tipo de dificultad: lagunas o contradicción</div>
     <div class="panel-body">
       Los _problemas de lagunas_ son los que resultan de la presencia de distorsiones en nuestra imagen de la realidad o en nuestros planes de acción. Por ejemplo, puntos inconexos, aspectos en los que no sabemos cómo seguir actuando, o situaciones en las que no comprendemos la relación entre  elementos que, sospechamos, están conectados.
@@ -15,7 +15,7 @@ A continuación les presentaremos algunas características que puedan presentar 
     </div>
   </div>
     
-  <div class="panel panel-default" style="width: 48%;">
+  <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">Según la estructura del problema: cerrados o generativos</div>
     <div class="panel-body">
       _Los problemas cerrados_ son aquellos en los que  se  presenta toda la información relevante para su solución. Suelen poseer una estructura lógica bien definida.
@@ -25,7 +25,7 @@ A continuación les presentaremos algunas características que puedan presentar 
     </div>
   </div>
   
-  <div class="panel panel-default" style="width: 48%;">
+  <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">Problemas teóricos y problemas prácticos</div>
     <div class="panel-body">
       _Los problemas prácticos_ están motivados por una necesidad de actuar, l@s estudiantes se encuentra ante la necesidad de resolver una situación práctica específica.
