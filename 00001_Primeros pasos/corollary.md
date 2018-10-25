@@ -1,0 +1,1 @@
+De ahora en más utilizaremos la categoría estudiante de modo genérico para referirnos a l@s participantes de la experiencia formativa que desarrollarás.
