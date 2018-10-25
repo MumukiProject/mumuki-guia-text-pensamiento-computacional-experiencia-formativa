@@ -1,0 +1,1 @@
+Recordá que en ejercicios anteriores ya planteaste los objetivos y características de tu problema :wink:.
