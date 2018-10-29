@@ -52,5 +52,5 @@ A continuación les presentaremos algunas características que puedan presentar 
 
 Si querés leer más sobre esto, podés hacerlo [acá](https://drive.google.com/open?id=1gx4fgH9ZGg5mUq5pKgfV9lNfQEUuXSaL).
 
-> Respondé las siguientes preguntas.
+> Encontrá una situación problemática y clasificala según las categorías vistas.
 
