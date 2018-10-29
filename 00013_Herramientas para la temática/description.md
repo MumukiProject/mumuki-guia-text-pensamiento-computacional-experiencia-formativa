@@ -49,7 +49,7 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-        Otra estrategia muy versátil para descomponer problemas de variada índole son las 5W. La misma recibe su nombre por la letra inicial de cada una de las preguntas en inglés. Esto nos dará mayor precisión del problema que queramos utilizar para diseñar nuestra propuesta formativa: 
+        Otra estrategia muy versátil para descomponer problemas de variada índole son las 5W. La misma recibe su nombre por la letra inicial de cada una de las preguntas en inglés. Esto te dará mayor precisión del problema que quieras utilizar para diseñar nuestra propuesta formativa: 
         <ul> 
           <li>¿Qué es el problema? (What)</li>
           <li>¿Por qué sucede/existe? (Why)</li>
