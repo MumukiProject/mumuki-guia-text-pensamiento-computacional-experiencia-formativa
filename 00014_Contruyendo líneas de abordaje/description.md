@@ -15,4 +15,4 @@ Teniendo en cuenta que estáss diseñando una experiencia formativa nos detendre
 * ¿Es necesario visualizarlo a priori? Efectivamente prever si recortamos el recorrido hacia un video, un texto, una maqueta, una campaña pública u otro nos permitirá organizar mejor nuestras decisiones.
 
 
-> Respondé las siguiente preguntas.
+> Respondé las siguientes preguntas sobre tu formación.
