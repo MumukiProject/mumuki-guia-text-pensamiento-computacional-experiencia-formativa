@@ -1,4 +1,4 @@
-- name: Se completó la tabla
+- name: Se escribieron ideas
   keys:
     ideas:
       match: .*
