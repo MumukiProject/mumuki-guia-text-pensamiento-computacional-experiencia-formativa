@@ -1,0 +1,4 @@
+- name: Se completaron las características
+  keys:
+    primera_pregunta:
+      match: .*
