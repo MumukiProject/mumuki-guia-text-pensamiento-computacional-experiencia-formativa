@@ -1,0 +1,4 @@
+- name: Se completó la tabla
+  keys:
+    ideas:
+      match: .*
