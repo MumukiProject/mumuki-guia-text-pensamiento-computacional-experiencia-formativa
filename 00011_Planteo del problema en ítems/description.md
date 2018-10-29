@@ -7,4 +7,6 @@
 
 Acá te dejamos un video: 
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LFB9WJeBCdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
