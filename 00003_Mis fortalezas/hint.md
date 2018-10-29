@@ -1,1 +1,0 @@
-Por ejemplo podés pensar que el corazón representa las emociones. ¿Qué características tenés vos desde el plano emocional que pueden potenciar tu rol docente?
