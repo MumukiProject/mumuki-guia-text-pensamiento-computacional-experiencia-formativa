@@ -5,4 +5,6 @@
 * la pregunta problema no puede responderse por “Sí” o por “No” sino que, para responderla, se deberá atravesar por un proceso de descubrimiento;
 * si bien puede estar relacionada con una temática en particular, la pregunta problema no estará vinculada a dar una descripción o detalles de una temática sino que deberá existir una situación a resolver;
 
-Si querés, [acá](https://www.youtube.com/watch?v=LFB9WJeBCdA) podés encontrar un vídeos sobre este tema.
+Acá te dejamos un video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFB9WJeBCdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
