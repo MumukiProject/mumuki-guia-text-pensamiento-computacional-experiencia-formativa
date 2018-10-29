@@ -1,3 +1,5 @@
+
+
 * El problema tiene que permitirme desarrollar mis objetivos formativos;
 * el problema se tiene que ajustar a las características de grupo;
 * el problema tiene que ser relevante y significativo para l@s estudiantes a los que estará dirigida la formación;
