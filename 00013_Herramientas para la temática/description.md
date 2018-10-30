@@ -11,7 +11,7 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
       <div class="panel-body">
         La <a href="https://www.cepal.org/ilpes/noticias/noticias/9/33159/Arboles_Diagnostico.pdf" target="_blank">metodología del árbol del problema</a> sugiere identificar las causas y las consecuencias de un problema central y así determinar si nos gustaría trabajar en relación a las causas o en relación a las consecuencias de ese problema. ¿Qué preferís trabajar en tu formación?
         <ul>
-          <li>El problema central</li>
+          <li>el problema central</li>
           <li>las causas</li>
           <li>las consecuencias</li>
         </ul>
@@ -27,8 +27,8 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
     </div>
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-        Muchas veces los problemas son de alcance global o regional. Sin embargo, cuando logramos enfocarlo desde aspectos o manifestaciones locales podremos trabajarlos desde un ámbito de mayor familiariaridad y permitiendo poner en juego sus conocimientos previos. 
-        <ul>¿Cuál es el alcance del problema? 
+        Muchas veces los problemas son de alcance global o regional. Sin embargo, cuando logramos enfocarlo desde aspectos o manifestaciones locales podremos trabajarlos desde un ámbito de mayor familiariaridad y permitiendo poner en juego sus conocimientos previos. ¿Cuál es el alcance del problema? 
+        <ul>
           <li>mundial</li>
           <li>regional</li>
           <li>nacional</li>
