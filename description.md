@@ -2,4 +2,4 @@ La hipótesis que estamos trabajando en conjunto es que podemos utilizar pensami
 
 Vamos a utilizar sus etapas y habilidades para poder resolver problemas. Vamos a partir de un tema, o problema, general y a partir de eso tomar decisiones que lo conviertan en abordable desde el rol docente.
 
-Por último, vamoss a planificar cómo aplicar pensamiento computacional para la búsqueda de una solución.
+Por último, vamos a planificar cómo aplicar pensamiento computacional para la búsqueda de una solución.
