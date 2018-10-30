@@ -1,4 +1,2 @@
 - name: Se completó la tabla
-  keys:
-    problema:
-      match: .*
+  keys: {}
