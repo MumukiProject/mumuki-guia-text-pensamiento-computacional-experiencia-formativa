@@ -1,1 +1,1 @@
-Recordá que en ejercicios anteriores ya planteaste los objetivos y características de tu problema :wink:.
+Quizás te sirva volver [acá](https://mumuki.io/tec.la/exercises/5954), donde planteaste los objetivos de tu planificación, y [acá](https://mumuki.io/tec.la/exercises/5893) donde observaste las características de los problemas. 
