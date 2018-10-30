@@ -1,1 +1,1 @@
-¿Habremos construido una imagen parecida a la que se imaginaron nuestros colegas? ¿L@s propios estudiantes realizarían una caracterización similar ante la misma consigna?
+¿Habremos construido una imagen parecida a la que se imaginaron nuestros colegas? ¿l@s propios estudiantes realizarían una caracterización similar ante la misma consigna?
