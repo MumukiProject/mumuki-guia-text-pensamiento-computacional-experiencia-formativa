@@ -1,4 +1,2 @@
 - name: Se escribieron ideas
-  keys:
-    ideas:
-      match: .*
+  keys: {}
