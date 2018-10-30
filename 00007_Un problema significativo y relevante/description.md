@@ -7,4 +7,4 @@ Si querés leer más sobre esto podés hacerlo [acá](https://drive.google.com/o
 
 Estos conceptos nos invitan a pensar que los problemas serán apropiados de manera diferencial entre cada grupo de estudiantes, como también por cada estudiante en particular. Cuando el problema se convierte en eje articulador deberemos proponer uno que sea suficientemente desafiante y atractivo, al menos, para la mayoría de los estudiantes del aula.
 
-Para avanzar en este momento nos servirá tener la mayor información disponible del grupo de personas que recibirán la formación. ¿Qué les resulta importante? ¿Qué les gusta? ¿Qué hacen en su vida? ¿Qué actividades realizan en su vida cotidiana?
+Para avanzar en este momento nos servirá tener la mayor información disponible del grupo de personas que recibirán la formación. ¿Qué les resulta importante? ¿qué les gusta? ¿qué hacen en su vida? ¿qué actividades realizan en su vida cotidiana?
