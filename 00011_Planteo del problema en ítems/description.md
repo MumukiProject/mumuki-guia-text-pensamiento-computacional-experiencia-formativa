@@ -1,6 +1,6 @@
 A modo de resumen de lo que fuimos viendo hasta acá, te vamos a presentar las características que deberá tener el problema que guíe tu formación a través de unos ítems:
 
-* El problema tiene que permitirte desarrollar tus objetivos formativos;
+* el problema tiene que permitirte desarrollar tus objetivos formativos;
 * el problema se tiene que ajustar a las características de grupo;
 * el problema tiene que ser relevante y significativo para l@s estudiantes a los que estará dirigida la formación;
 * el problema deberá ser lo suficientemente desafiante para estimular al grupo a que busque una respuesta y suficientemente accesible para que todo el grupo pueda diseñarse sus propios caminos para encontrar la respuesta;
