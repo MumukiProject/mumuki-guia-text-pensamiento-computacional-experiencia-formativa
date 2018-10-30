@@ -35,8 +35,8 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
           <li>local</li>
         </ul>
         Algunas preguntas pueden servir para anclar el problema dentro de una esfera local y cercana a nuestra experiencia: 
-        ¿Viste alguna manifestación de este problema en el trayecto de tu casa a la escuela/trabajo? ¿Y el último fin de semana?
-        ¿Conocés a alguien de tu familia o amig@s que conozcan este problema mejor que vos?
+        ¿viste alguna manifestación de este problema en el trayecto de tu casa a la escuela/trabajo? ¿y el último fin de semana?
+        ¿conocés a alguien de tu familia o amig@s que conozcan este problema mejor que vos?
       </div>
     </div>
   </div>
