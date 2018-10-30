@@ -9,8 +9,8 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-        La <a href="https://www.cepal.org/ilpes/noticias/noticias/9/33159/Arboles_Diagnostico.pdf" target="_blank">metodología del árbol del problema</a> sugiere identificar las causas y las consecuencias de un problema central y así determinar si nos gustaría trabajar en relación a las causas o en relación a las consecuencias de ese problema. 
-        <ul>¿Qué preferís trabajar en tu formación? 
+        La <a href="https://www.cepal.org/ilpes/noticias/noticias/9/33159/Arboles_Diagnostico.pdf" target="_blank">metodología del árbol del problema</a> sugiere identificar las causas y las consecuencias de un problema central y así determinar si nos gustaría trabajar en relación a las causas o en relación a las consecuencias de ese problema. ¿Qué preferís trabajar en tu formación?
+        <ul>
           <li>El problema central</li>
           <li>las causas</li>
           <li>las consecuencias</li>
