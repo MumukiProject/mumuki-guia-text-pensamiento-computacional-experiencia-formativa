@@ -1,6 +1,8 @@
 En este momento daremos un salto grande. Un gif para que te acompañe en esta aventura:
 
-<img src="https://media.giphy.com/media/NfzaPhEkofpPW/giphy.gif" alt="GIF PRINCE OF PERSIA" width="auto" height="auto">
+<div align="center">
+  <img src="https://media.giphy.com/media/NfzaPhEkofpPW/giphy.gif" alt="GIF PRINCE OF PERSIA" width="auto" height="auto">
+</div>
 
 A continuación, debes formular un elemento clave para tu planificación: la línea de abordaje del problema. Esto implica dilucidar qué caminos de resolución ves posibles y hacia cuáles deseas orientarte en tu formación.
 
