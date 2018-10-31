@@ -4,7 +4,7 @@ En este momento daremos un salto grande. Un gif para que te acompañe en esta av
   <img src="https://media.giphy.com/media/NfzaPhEkofpPW/giphy.gif" alt="GIF PRINCE OF PERSIA" width="auto" height="auto">
 </div>
 
-A continuación, debes formular un elemento clave para tu planificación: la línea de abordaje del problema. Esto implica dilucidar qué caminos de resolución ves posibles y hacia cuáles deseas orientarte en tu formación.
+A continuación, debes formular un elemento clave para tu planificación: la línea de abordaje del problema. Esto implica dilucidar qué caminos de resolución ves posibles y hacia cuáles deseás orientarte en tu formación.
 
 De acuerdo a nuestros objetivos seleccionarás si la formación partirá de una línea de intervención ya definida o si preferís realizar este proceso junto a l@s estudiantes.
 
