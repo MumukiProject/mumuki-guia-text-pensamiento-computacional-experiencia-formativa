@@ -12,7 +12,7 @@ A continuación les presentaremos algunas características que puedan presentar 
         Según tipo de dificultad: lagunas o contradicción
       </a>
     </div>
-    <div id="collapseOne" class="in panel-collapse collapse">
+    <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
         <p>Los <em>problemas de lagunas</em> son los que resultan de la presencia de distorsiones en nuestra imagen de la realidad o en nuestros planes de acción. Por ejemplo, puntos inconexos, aspectos en los que no sabemos cómo seguir actuando, o situaciones en las que no comprendemos la relación entre  elementos que, sospechamos, están conectados.</p>
         <p>Los <em>problemas de contradicción</em> son aquellos que se presentan cuando existen dos interpretaciones contradictorias sobre una misma situación. Por ejemplo, cuando un niño pequeño trasvasa la misma cantidad de líquido de un envase ancho a uno angosto, juzga que hay más líquido en el recipiente angosto porque es más alto. Si se le pregunta, ¿no te parece que hay menos cantidad porque es más angosto?, se presenta un problema de contradicción, pues la alternativa que le proponemos es distinta de su hipótesis. También se puede presentar un problema de contradicción cuando dudamos  entre distintas formas de actuar frente a una situación.</p>
@@ -26,7 +26,7 @@ A continuación les presentaremos algunas características que puedan presentar 
         Según la estructura del problema: cerrados o generativos
       </a>
     </div>
-    <div id="collapseTwo" class="in panel-collapse collapse">
+    <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
         <p>Los <em>problemas cerrados</em> son aquellos en los que  se  presenta toda la información relevante para su solución. Suelen poseer una estructura lógica bien definida.</p>
         <p>Los <em>problemas generativos</em> exigen que l@s estudiantes generen, por sí mismos, la  información necesaria para encontrar la solución.
@@ -41,7 +41,7 @@ A continuación les presentaremos algunas características que puedan presentar 
         Problemas teóricos y problemas prácticos
       </a>
     </div>
-    <div id="collapseThree" class="in panel-collapse collapse">
+    <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
         <p>Los <em>problemas prácticos</em> están motivados por una necesidad de actuar, l@s estudiantes se encuentra ante la necesidad de resolver una situación práctica específica.</p>
         <p>Los <em>problemas teóricos</em> están motivados por una necesidad de comprender, de conocer.</p>
