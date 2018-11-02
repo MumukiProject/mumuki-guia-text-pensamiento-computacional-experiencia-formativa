@@ -7,7 +7,7 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
         El árbol del problema
       </a>
     </div>
-    <div id="collapseOne" class="in panel-collapse collapse">
+    <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
         La <a href="https://www.cepal.org/ilpes/noticias/noticias/9/33159/Arboles_Diagnostico.pdf" target="_blank">metodología del árbol del problema</a> sugiere identificar las causas y las consecuencias de un problema central y así determinar si nos gustaría trabajar en relación a las causas o en relación a las consecuencias de ese problema. ¿Qué preferís trabajar en tu formación?
         <ul>
@@ -25,7 +25,7 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
         Local/Global
       </a>
     </div>
-    <div id="collapseTwo" class="in panel-collapse collapse">
+    <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
         Muchas veces los problemas son de alcance global o regional. Sin embargo, cuando logramos enfocarlo desde aspectos o manifestaciones locales podremos trabajarlos desde un ámbito de mayor familiariaridad y permitiendo poner en juego sus conocimientos previos. ¿Cuál es el alcance del problema? 
         <ul>
@@ -47,7 +47,7 @@ Algunas herramientas pueden servirte para conocer mejor la temática. Te damos u
         Las 5W
       </a>
     </div>
-    <div id="collapseThree" class="in panel-collapse collapse">
+    <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
         Otra estrategia muy versátil para descomponer problemas de variada índole son las 5W. La misma recibe su nombre por la letra inicial de cada una de las preguntas en inglés. Esto te dará mayor precisión del problema que quieras utilizar para diseñar nuestra propuesta formativa: 
         <ul> 
